@@ -1,0 +1,4 @@
+1 Tool: (DD99) Warning: Some features of C are not yet supported
+2 Command: Took procedure func as default differentiation root
+3 Command: Procedure tapenade_main understood as llt_module.tapenade_main
+4 tapenade_main: Command: Input variable(s) d, res, l, sref, cd, cl have their derivative modified in tapenade_main: added to independents
